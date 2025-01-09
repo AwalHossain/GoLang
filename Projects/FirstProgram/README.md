@@ -32,8 +32,6 @@ go run filename-with-extension
   import "fmt"
   ```
 
-````
-
 - `fmt` is short for **format**, used for formatted I/O operations like printing to the console.
 
 ---
